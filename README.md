@@ -54,5 +54,3 @@ The dataset provides:
 
 ---
 
-## 📌 Repository Structure
-
